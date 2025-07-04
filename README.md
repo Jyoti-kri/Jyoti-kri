@@ -55,14 +55,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyoti-kri&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-kri&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-kri&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-kri&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-kri&theme=merko&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
 
 ## 📈 GitHub Activity Graph
 
