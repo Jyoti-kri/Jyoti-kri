@@ -12,8 +12,8 @@
 🔭 Web Development Intern at Prodigy InfoTech  
 📧 Reach me at **jyoti628627@gmail.com**  
 🌱 Currently enhancing my Full Stack Development skills and learning DSA  
-📄 You can explore my resume [ here ](https://drive.google.com/file/d/1NjKwkZDeG1mrd6a9wajZ5q_2i-dFW-_Y/view?usp=drivesdk)  
-🌐 Visit my portfolio [ here ](https://github.com/Jyoti-kri/Portfolio)  
+📄 You can explore my resume [ here ](https://drive.google.com/file/d/1QiVGdCnTj_ckLeIEOshn5aclSaKY_raT/view?usp=drivesdk)  
+🌐 Visit my portfolio [ here ](https://portfolio-delta-teal-r34mgls7t7.vercel.app/)  
 
 ---
 
@@ -24,7 +24,7 @@
 | [MERN E-Commerce Website](https://github.com/Jyoti-kri/MERN-PROJECT) | Full-featured MERN stack app with auth, admin/user roles |
 | [Spam Detection ML](https://github.com/Jyoti-kri/email-spam-detection) | Real-time spam detector using TF-IDF + Naive Bayes in Streamlit |
 | [TalentCrew - AI Hiring](https://github.com/Jyoti-kri/TalentCrew) | AI-powered recruitment tool using LangChain + MongoDB |
-| [Portfolio Website](https://github.com/Jyoti-kri/Portfolio) | Your personal developer portfolio site |
+| [Portfolio Website](https://portfolio-delta-teal-r34mgls7t7.vercel.app/) | Your personal developer portfolio site |
 
 ---
 
