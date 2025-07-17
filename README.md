@@ -12,7 +12,7 @@
 🔭 Web Development Intern at Prodigy InfoTech  
 📧 Reach me at **jyoti628627@gmail.com**  
 🌱 Currently enhancing my Full Stack Development skills and learning DSA  
-📄 You can explore my resume [ here ](https://drive.google.com/file/d/1QiVGdCnTj_ckLeIEOshn5aclSaKY_raT/view?usp=drivesdk)  
+📄 You can explore my resume [ here ](https://drive.google.com/file/d/10BPBTYHcd-Z9ygvBaOmiEp4Xn9_ZQRDv/view?usp=drivesdk)  
 🌐 Visit my portfolio [ here ](https://portfolio-delta-teal-r34mgls7t7.vercel.app/)  
 
 ---
@@ -21,8 +21,10 @@
 
 |  Project Name  |  Descriptions    |
 | -------------- | ---------------- |
+| [PingPong- chat application](https://github.com/Jyoti-kri/PingPong) |  Real-time chat app with JWT auth, Redux state, image sharing, and responsive design. |
 | [MERN E-Commerce Website](https://github.com/Jyoti-kri/MERN-PROJECT) | Full-featured MERN stack app with auth, admin/user roles |
 | [Spam Detection ML](https://github.com/Jyoti-kri/email-spam-detection) | Real-time spam detector using TF-IDF + Naive Bayes in Streamlit |
+| [Weather App](https://github.com/Jyoti-kri/PRODIGY_WD_05) |  Real-time forecast with location detection, voice search, smart city suggestions and theme toggle.|
 | [TalentCrew - AI Hiring](https://github.com/Jyoti-kri/TalentCrew) | AI-powered recruitment tool using LangChain + MongoDB |
 | [Portfolio Website](https://portfolio-delta-teal-r34mgls7t7.vercel.app/) | Your personal developer portfolio site |
 
