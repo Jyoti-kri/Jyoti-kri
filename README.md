@@ -9,10 +9,10 @@
 ## 💫 About Me
 
 🧠 Full Stack Developer | MERN Stack | IEM Kolkata  
-🔭 Web Development Intern at Prodigy InfoTech  
+🔭 Software Developer Intern at E2IHUB, IIT Kanpur 
 📧 Reach me at **jyoti628627@gmail.com**  
 🌱 Currently enhancing my Full Stack Development skills and learning DSA  
-📄 You can explore my resume [ here ](https://drive.google.com/file/d/10BPBTYHcd-Z9ygvBaOmiEp4Xn9_ZQRDv/view?usp=drivesdk)  
+📄 You can explore my resume [ here ](https://drive.google.com/file/d/1G1p5xpBjAyMtsXV9a0vdx9lyuwGawx6g/view?usp=drivesdk)  
 🌐 Visit my portfolio [ here ](https://portfolio-delta-teal-r34mgls7t7.vercel.app/)  
 
 ---
